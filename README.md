@@ -1,2 +1,1 @@
-tokipona
-========
+See OLUKINEMI.md
